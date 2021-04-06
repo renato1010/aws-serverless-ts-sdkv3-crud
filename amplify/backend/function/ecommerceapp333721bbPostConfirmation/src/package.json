@@ -5,6 +5,11 @@
   "main": "index.js",
   "license": "Apache-2.0",
   "dependencies": {
+    "@aws-sdk/client-cognito-identity-provider": "^3.11.0",
     "axios": "latest"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.73",
+    "@types/node": "^14.14.37"
   }
 }
