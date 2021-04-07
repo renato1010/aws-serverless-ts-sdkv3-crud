@@ -296,4 +296,4 @@ app.delete("/products", async function (req: any, res: any) {
 ```
 
 **That's it there you have a full CRUD serverless**
-![screenshot](screenshots/full-serverless-CRUD-2021-04-06%2021-06.gif)
+![screenshot](screenshots/full-serverless-CRUD-2021-04-06.gif)

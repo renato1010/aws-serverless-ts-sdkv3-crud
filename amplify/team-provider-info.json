@@ -16,7 +16,7 @@
         "ecommerceapp333721bbPostConfirmation": {
           "GROUP": "Admin",
           "deploymentBucketName": "amplify-ecommerceapp-dev-212434-deployment",
-          "s3Key": "amplify-builds/ecommerceapp333721bbPostConfirmation-4d6165534f4756337955-build.zip"
+          "s3Key": "amplify-builds/ecommerceapp333721bbPostConfirmation-7768377930376b727571-build.zip"
         },
         "ecommercefunction": {
           "deploymentBucketName": "amplify-ecommerceapp-dev-212434-deployment",
