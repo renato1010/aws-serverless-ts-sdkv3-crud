@@ -1,4 +1,3 @@
-// @ts-ignore
 // import * as AWS from "aws-sdk";
 import { PostAuthenticationTriggerHandler } from "aws-lambda";
 import {
